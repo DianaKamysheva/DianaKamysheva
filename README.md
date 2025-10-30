@@ -1,4 +1,6 @@
-## Hi there 👋
+## Привет
+Меня зовут Диана
+Я студентка 3 курса
 
 <!--
 **DianaKamysheva/DianaKamysheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
